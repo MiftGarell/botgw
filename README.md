@@ -10,7 +10,7 @@ Simple Rpg WhatsApp Bot
 
 ## Deploy to heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Drz103/RadBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MiftGarell/botgw)
 
 Heroku Buildpack
 | BuildPack | LINK |
@@ -44,7 +44,7 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/Drz103/RadBot
+git clone https://github.com/MiftGarell/botgw
 cd RadBot
 npm install
 npm update
